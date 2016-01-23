@@ -8,7 +8,6 @@
 %%%
 
 Write a method that `puts` "ruby" 3 times.
-
 ~~~ruby
 
 def puts_ruby_three_times
