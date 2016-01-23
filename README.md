@@ -40,7 +40,7 @@ assert_output(response, "ruby\nruby\nruby\n")
 
 # Explicit Return
 
-Write a method that returns 'ruby'
+Write a method that returns 'ruby'.
 
 ~~~ruby
 def returns_ruby
@@ -62,7 +62,6 @@ returns_ruby
 ~~~validation
 assert_output(response, "ruby")
 assert_length(response, 4)
-
 ~~~
 %%%
 
