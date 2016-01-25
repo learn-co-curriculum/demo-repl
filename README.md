@@ -62,6 +62,7 @@ returns_ruby
 assert_output(response, "ruby")
 assert_length(response, 4)
 ~~~
+
 %%%
 
 <a href='https://learn.co/lessons/demo-repl' data-visibility='hidden'>View this lesson on Learn.co</a>
