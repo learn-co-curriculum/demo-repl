@@ -25,7 +25,6 @@ def puts_ruby_three_times
     puts "ruby"
   end
 end
-
 puts_ruby_three_times
 
 ~~~validation
